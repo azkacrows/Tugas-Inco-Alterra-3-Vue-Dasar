@@ -87,5 +87,3 @@ Proyek ini menggunakan beberapa dependencies utama sebagai berikut:
 
 **Date**: Jul 20, 2022
 
-**Original Repository**:\
-https://github.com/azkacrows/Latihan-Bootcamp/tree/main/Alterra
